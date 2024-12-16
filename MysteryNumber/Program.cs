@@ -30,7 +30,7 @@ while (compteur != mysterNumber)
     {
         Console.ForegroundColor = ConsoleColor.Green;
         Console.WriteLine("Bravo !! vous avez trouvé le nombre mystère !");
-        Console.WriteLine($"Vous avez trouvé en {numberCoups} coups !");
+        Console.WriteLine($"Vous avez trouvé en {numberCoups} coups !!!");
         Console.ResetColor();
         break;
 
